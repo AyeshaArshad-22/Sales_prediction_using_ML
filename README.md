@@ -37,7 +37,7 @@ Validation: Measuring performance using R² Score and Mean Squared Error (MSE).
 Clone the repo:
 
 Bash
-git clone https://github.com/AyeshaArshad-22/Sales-Prediction-ML.git
+git clone [https://github.com/AyeshaArshad-22/Sales-Prediction-ML](https://github.com/AyeshaArshad-22/Sales_prediction_using_ML/tree/main)
 Install dependencies:
 
 Bash
